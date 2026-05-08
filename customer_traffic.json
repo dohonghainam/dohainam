@@ -1,0 +1,238 @@
+{
+    "predictions": [
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-12",
+            "daypart": "morning",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.13,
+            "days_ahead": 0
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-12",
+            "daypart": "afternoon",
+            "predicted_customers": 0.66,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.63,
+            "days_ahead": 0
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-12",
+            "daypart": "evening",
+            "predicted_customers": 0.49,
+            "confidence_score": 0.9344,
+            "lower_bound": 0.42,
+            "upper_bound": 0.55,
+            "days_ahead": 0
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-13",
+            "daypart": "morning",
+            "predicted_customers": 0.55,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.27,
+            "days_ahead": 1
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-13",
+            "daypart": "afternoon",
+            "predicted_customers": 0.71,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.72,
+            "days_ahead": 1
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-13",
+            "daypart": "evening",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.9342,
+            "lower_bound": 0.41,
+            "upper_bound": 0.54,
+            "days_ahead": 1
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-14",
+            "daypart": "morning",
+            "predicted_customers": 0.71,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.6,
+            "days_ahead": 2
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-14",
+            "daypart": "afternoon",
+            "predicted_customers": 0.88,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 3.11,
+            "days_ahead": 2
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-14",
+            "daypart": "evening",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.9342,
+            "lower_bound": 0.41,
+            "upper_bound": 0.54,
+            "days_ahead": 2
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-15",
+            "daypart": "morning",
+            "predicted_customers": 0.41,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 1.98,
+            "days_ahead": 3
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-15",
+            "daypart": "afternoon",
+            "predicted_customers": 0.58,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.45,
+            "days_ahead": 3
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-15",
+            "daypart": "evening",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.9342,
+            "lower_bound": 0.41,
+            "upper_bound": 0.54,
+            "days_ahead": 3
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-16",
+            "daypart": "morning",
+            "predicted_customers": 0.21,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 1.56,
+            "days_ahead": 4
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-16",
+            "daypart": "afternoon",
+            "predicted_customers": 0.35,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 1.94,
+            "days_ahead": 4
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-16",
+            "daypart": "evening",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.9342,
+            "lower_bound": 0.41,
+            "upper_bound": 0.54,
+            "days_ahead": 4
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-17",
+            "daypart": "morning",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.13,
+            "days_ahead": 5
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-17",
+            "daypart": "afternoon",
+            "predicted_customers": 0.65,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.61,
+            "days_ahead": 5
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-17",
+            "daypart": "evening",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.9342,
+            "lower_bound": 0.41,
+            "upper_bound": 0.54,
+            "days_ahead": 5
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-18",
+            "daypart": "morning",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.13,
+            "days_ahead": 6
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-18",
+            "daypart": "afternoon",
+            "predicted_customers": 0.65,
+            "confidence_score": 0.0,
+            "lower_bound": 0.0,
+            "upper_bound": 2.61,
+            "days_ahead": 6
+        },
+        {
+            "store_id": 214,
+            "outlet_id": 59,
+            "date": "2026-03-18",
+            "daypart": "evening",
+            "predicted_customers": 0.48,
+            "confidence_score": 0.9342,
+            "lower_bound": 0.41,
+            "upper_bound": 0.54,
+            "days_ahead": 6
+        }
+    ],
+    "store_id": 214,
+    "outlet_id": 59,
+    "request_id": null
+}
