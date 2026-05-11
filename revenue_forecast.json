@@ -1,0 +1,103 @@
+{
+    "forecasts": [
+        {
+            "date": "2026-03-06",
+            "amount": 1924.53,
+            "lower_bound": 199.1,
+            "upper_bound": 5458.63
+        },
+        {
+            "date": "2026-03-07",
+            "amount": 0.7,
+            "lower_bound": 0,
+            "upper_bound": 43.14
+        },
+        {
+            "date": "2026-03-08",
+            "amount": 0.67,
+            "lower_bound": 0,
+            "upper_bound": 39.37
+        },
+        {
+            "date": "2026-03-09",
+            "amount": 462.13,
+            "lower_bound": 32.53,
+            "upper_bound": 4071.89
+        },
+        {
+            "date": "2026-03-10",
+            "amount": 392.99,
+            "lower_bound": 44.7,
+            "upper_bound": 4312.5
+        },
+        {
+            "date": "2026-03-11",
+            "amount": 735.74,
+            "lower_bound": 23.07,
+            "upper_bound": 5092.28
+        },
+        {
+            "date": "2026-03-12",
+            "amount": 541.93,
+            "lower_bound": 27.4,
+            "upper_bound": 4974.31
+        },
+        {
+            "date": "2026-03-13",
+            "amount": 132.43,
+            "lower_bound": 28.24,
+            "upper_bound": 3830.17
+        },
+        {
+            "date": "2026-03-14",
+            "amount": 16.1,
+            "lower_bound": 0,
+            "upper_bound": 784.77
+        },
+        {
+            "date": "2026-03-15",
+            "amount": 10.74,
+            "lower_bound": 0,
+            "upper_bound": 784.77
+        },
+        {
+            "date": "2026-03-16",
+            "amount": 34.79,
+            "lower_bound": 15.18,
+            "upper_bound": 4317.22
+        },
+        {
+            "date": "2026-03-17",
+            "amount": 60.6,
+            "lower_bound": 24.1,
+            "upper_bound": 4006.24
+        },
+        {
+            "date": "2026-03-18",
+            "amount": 276.09,
+            "lower_bound": 18.16,
+            "upper_bound": 3947.73
+        },
+        {
+            "date": "2026-03-19",
+            "amount": 162.15,
+            "lower_bound": 22.79,
+            "upper_bound": 6039.17
+        },
+        {
+            "date": "2026-03-20",
+            "amount": 20.01,
+            "lower_bound": 10.92,
+            "upper_bound": 2941.26
+        },
+        {
+            "date": "2026-03-21",
+            "amount": 18.91,
+            "lower_bound": 0,
+            "upper_bound": 188.39
+        }
+    ],
+    "store_id": 10,
+    "outlet_id": 3365,
+    "model": "wh"
+}
