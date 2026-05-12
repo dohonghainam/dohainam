@@ -1,0 +1,12 @@
+{
+    "total_transactions": 879839,
+    "total_revenue": 108371382.08999999,
+    "unique_customers": 0,
+    "unique_products": 0,
+    "avg_transaction_value": 123.17183267620553,
+    "total_units_sold": 3396815,
+    "date_range": {
+        "start": "2024-01-01",
+        "end": "2025-01-01"
+    }
+}
