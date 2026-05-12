@@ -1,0 +1,179 @@
+{
+    "store_id": "10",
+    "outlet_id": "3365",
+    "sku": "001",
+    "product_category": null,
+    "forecast_start_date": "2026-05-13",
+    "forecast_periods": 16,
+    "predictions": [
+        {
+            "purchase_date": "2026-05-13",
+            "predicted_units": 0.7724,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-14",
+            "predicted_units": 0.7667,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-15",
+            "predicted_units": 0.8179,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-16",
+            "predicted_units": 0.064,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-17",
+            "predicted_units": 0.6972,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-18",
+            "predicted_units": 0.8182,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-19",
+            "predicted_units": 0.7815,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-20",
+            "predicted_units": 0.7983,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-21",
+            "predicted_units": 0.7998,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-22",
+            "predicted_units": 0.8091,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-23",
+            "predicted_units": 0.1045,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-24",
+            "predicted_units": 0.6857,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-25",
+            "predicted_units": 0.7768,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-26",
+            "predicted_units": 0.7401,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-27",
+            "predicted_units": 0.7666,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        },
+        {
+            "purchase_date": "2026-05-28",
+            "predicted_units": 0.7467,
+            "model_mae": 25.4024,
+            "confidence_score": 0.646,
+            "is_promo": 0,
+            "availability_pct": 100
+        }
+    ],
+    "impacts": {
+        "total_predicted_units": 10.95,
+        "avg_daily_units": 0.68,
+        "model_mae": 25.4024,
+        "confidence_score": 0.646,
+        "confidence_tier": "low",
+        "promo_days": 0,
+        "avg_discount_value": 0,
+        "avg_availability_pct": 100,
+        "n_train_rows": 323
+    },
+    "radar_chart_data": {
+        "categories": [
+            "Predicted Units",
+            "Promo Activity",
+            "Inventory Avail %",
+            "Confidence",
+            "Model Accuracy"
+        ],
+        "values": [
+            6.8,
+            0,
+            100,
+            64.6,
+            2.6
+        ],
+        "tooltips": [
+            "Avg daily: 0.7 units | Total: 11",
+            "Promo days: 0 | Avg discount: 0.0",
+            "Avg availability: 100.0%",
+            "Confidence: 65% (low)",
+            "Model MAE: 25.40 units | Accuracy score: 3/100"
+        ]
+    },
+    "summary": {
+        "total_predicted_units": 10.95,
+        "avg_daily_units": 0.68,
+        "model_mae": 25.4024,
+        "confidence_score": 0.646,
+        "confidence_tier": "low"
+    }
+}
