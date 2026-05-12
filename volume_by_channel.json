@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "store_id": 9522,
+            "outlet_name": null,
+            "city": null,
+            "region": null,
+            "channel": "online",
+            "total_units": 2984956,
+            "total_revenue_usd": 95810118.34360044,
+            "transaction_count": 0,
+            "avg_transaction_value": 95810118.34360044
+        },
+        {
+            "store_id": 9522,
+            "outlet_name": null,
+            "city": null,
+            "region": null,
+            "channel": "unknown",
+            "total_units": 306801,
+            "total_revenue_usd": 8985156.0494,
+            "transaction_count": 0,
+            "avg_transaction_value": 8985156.0494
+        }
+    ]
+}
