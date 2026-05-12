@@ -1,0 +1,16 @@
+{
+    "outlet_id": "10425",
+    "store_id": "9522",
+    "transaction_count": 6034,
+    "total_units": 10586,
+    "total_revenue_usd": 561171.3,
+    "avg_basket_size": 1.754,
+    "avg_order_value": 93,
+    "sample_confidence": 1,
+    "horizon_confidence": 0.65,
+    "combined_confidence": 0.65,
+    "confidence_tier": "medium",
+    "weather_reliability": "Medium",
+    "period_start": "2024-10-01T00:00:00",
+    "period_end": "2025-09-30T23:59:59"
+}
