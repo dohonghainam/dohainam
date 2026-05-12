@@ -1,0 +1,43 @@
+{
+    "items": [
+        {
+            "store_id": 9522,
+            "outlet_name": null,
+            "city": null,
+            "region": null,
+            "loyalty_tier": "bronze",
+            "total_units": 57445,
+            "total_revenue_usd": 1756644.8599999966,
+            "transaction_count": 5832,
+            "unique_customers": 5832,
+            "avg_transaction_value": 0,
+            "avg_customer_value": 0
+        },
+        {
+            "store_id": 9522,
+            "outlet_name": null,
+            "city": null,
+            "region": null,
+            "loyalty_tier": "gold",
+            "total_units": 66833,
+            "total_revenue_usd": 2040410.3199999975,
+            "transaction_count": 5962,
+            "unique_customers": 5962,
+            "avg_transaction_value": 0,
+            "avg_customer_value": 0
+        },
+        {
+            "store_id": 9522,
+            "outlet_name": null,
+            "city": null,
+            "region": null,
+            "loyalty_tier": "silver",
+            "total_units": 39826,
+            "total_revenue_usd": 1210152.569999999,
+            "transaction_count": 3613,
+            "unique_customers": 3613,
+            "avg_transaction_value": 0,
+            "avg_customer_value": 0
+        }
+    ]
+}
