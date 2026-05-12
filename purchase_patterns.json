@@ -1,0 +1,16 @@
+{
+    "trend_direction": null,
+    "peak_day": {
+        "day": "Unknown",
+        "revenue": 0
+    },
+    "peak_hour": {
+        "hour": 12,
+        "revenue": 0
+    },
+    "top_category": {
+        "category": "uncategorised",
+        "revenue": 102465358.14299998,
+        "share": 97.77669721893906
+    }
+}
