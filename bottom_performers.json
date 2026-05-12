@@ -1,0 +1,84 @@
+{
+    "items": [
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "Makeup",
+            "sku": "K3392500",
+            "total_units": 1,
+            "total_revenue": 22.99
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "AB Faves",
+            "sku": "131174340",
+            "total_units": 1,
+            "total_revenue": 58
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "Oily Scalps",
+            "sku": "ST0011T",
+            "total_units": 1,
+            "total_revenue": 11
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "Gifts Under $50",
+            "sku": "APHCRM GRPSBTO",
+            "total_units": 1,
+            "total_revenue": 29
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "uncategorised",
+            "sku": "1039",
+            "total_units": 1,
+            "total_revenue": 132.6
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "ELEVEN Australia",
+            "sku": "ELE108",
+            "total_units": 1,
+            "total_revenue": 33.95
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "Offers",
+            "sku": "ELE192",
+            "total_units": 1,
+            "total_revenue": 0
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "uncategorised",
+            "sku": "K3393200",
+            "total_units": 1,
+            "total_revenue": 22.99
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "Brown Brothers x Adore Beauty",
+            "sku": "AB-TM-TTBRS-BLK-7",
+            "total_units": 1,
+            "total_revenue": 50
+        },
+        {
+            "store_id": "9522",
+            "outlet_id": "10425",
+            "category": "Makeup Sponges",
+            "sku": "AB-TM-TTSPG-BLK-2",
+            "total_units": 1,
+            "total_revenue": 12
+        }
+    ]
+}
